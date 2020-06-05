@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#CCD1D1</item>
+        <item name="colorPrimaryDark">#CCD1D1</item>
+        <item name="colorAccent">#34495E</item>
+        <item name="android:fontFamily">arbutus</item>
+
+    </style>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:fontFamily">@font/allerta_stencil</item>
+        <item name="android:textColorSecondary">#34495E</item>
+    </style>
+
+</resources>
